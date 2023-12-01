@@ -1,2 +1,3 @@
-# whelp
-Binary compiler
+# Whelp
+
+Perl web application deployment.
